@@ -10,5 +10,10 @@
   },
   "peerDependencies": {
     "prettier": ">=3"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tscfgs/monorepo.git",
+    "directory": "packages/prettier-config"
   }
 }
