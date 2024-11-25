@@ -7,7 +7,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/tscfgs/monorepo.git",
+    "url": "https://github.com/peng-huang-ch/tscfgs-monorepo.git",
     "directory": "packages/typescript-config"
   }
 }
